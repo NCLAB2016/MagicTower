@@ -11,7 +11,7 @@ Magic Tower game based on flash actionscript3 by LIAO in 2014
 
 `SWF版` 下载[MagicTower.swf](/releases/download/V1.0/Flash.SWF.File.swf)并下载[Flash Player projector](http://www.adobe.com/support/flashplayer/debug_downloads.html),用Flash Player projector打开swf并玩耍
 
-`Online版` 打开[MagicTower.html](/html/MagicTower.html)并玩耍(NOT recommend for MAY NOT SUCCESS SAVE GAME, 你浏览器需要有Flash插件并允许读写本地文件)
+`Online版` 打开[MagicTower.html](https://liao1995.github.io/MagicTower-Online/)并玩耍(NOT recommend for MAY NOT SUCCESS SAVE GAME, 你浏览器需要有Flash插件并允许读写本地文件)
 
 ## How to Play
 
