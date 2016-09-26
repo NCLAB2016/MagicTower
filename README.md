@@ -1,5 +1,9 @@
 # MagicTower
 
+## 发布页
+
+[https://liao1995.github.io/MagicTower/](https://liao1995.github.io/MagicTower/)
+
 ## Description
 Magic Tower game based on flash actionscript3 by LIAO in 2014
 
